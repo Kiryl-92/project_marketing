@@ -120,8 +120,8 @@
 ## 🚀 Инструкция по запуску
 
 1. Клонировать репозиторий:
-git clone https://github.com/Kiryl-92/marketing.git
-cd marketing
+git clone https://github.com/Kiryl-92/project_marketing.git
+cd project_marketing
 
 2. Установить зависимости:
 pip install -r requirements.txt
